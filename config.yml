@@ -47,11 +47,19 @@ params:
           enabled: true
           title: Leesak An
           subtitle: |
-            Hello, I’m a student studying political science. I recently completed my M.A. at Korea University and currently work as a research staffer at the Peace & Democracy Institute. I focus on political behavior and public opinion, with attention to identity and gender politics.
+            Hello, I’m a student studying political science. 
+            
+            I recently completed my M.A. at Korea University and currently work as a research staffer at the Peace & Democracy Institute. 
+            
+            I focus on political behavior and public opinion, with attention to identity and gender politics.
           
-            I study how identity labels and status perceptions influence attitudes and participation. My work looks at why the same experience or label affects people in different ways and how these patterns shift across social and institutional settings.
+            I study how identity labels and status perceptions influence attitudes and participation. 
+            
+            My work looks at why the same experience or label affects people in different ways and how these patterns shift across social and institutional settings.
           
-            My current projects examine feminism labeling, gendered discrimination and participation, and recent changes in Chinese nationalism. I also study how the visibility of marginalized groups shapes local attitudes. 
+            My current projects examine feminism labeling, gendered discrimination and participation, and recent changes in Chinese nationalism. 
+            
+            I also study how the visibility of marginalized groups shapes local attitudes. 
           
           imageUrl: "profile.jpeg"
           imageWidth: 160
