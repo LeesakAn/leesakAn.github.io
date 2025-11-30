@@ -1,6 +1,6 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
+title: "Gender Politics Research Group"
+date: 2023-09 ~ 2025-08 
 aliases: 
     - /courses/course2/slides4.pdf
     - /courses/course2/slides1.pdf
