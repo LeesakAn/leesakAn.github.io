@@ -6,8 +6,8 @@ author: ["Leesak An"]
 description: "This study examines whether the label 'feminism' itself affects political attitudes and behavior when attached to contentious issues.  Master's Thesis." 
 summary: "This study examines whether the label 'feminism' itself affects political attitudes and behavior when attached to contentious issues.  Master's Thesis." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    image: "feminist.jpg"
+    alt: ""
     relative: true
 
 ---
@@ -16,7 +16,7 @@ cover:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
++ [Paper](Are_you_a_feminist(11/20).pdf)
 
 ---
 
