@@ -12,12 +12,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Research
-          url: research/
+        - name: Papers
+          url: papers/
           weight: 2 
+        - name: Books
+          url: books/
+          weight: 3
         - name: Experience
           url: experience/
-          weight: 3
+          weight: 4
 
 params:
     description: "This website hosts Leesak An's research papers, books, experience, curriculum vitae, and contact information."
@@ -57,8 +60,10 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Research
-              url: research/
+            - name: Papers
+              url: papers/
+            - name: Books
+              url: books/
             - name: Experience
               url: experience/
 
