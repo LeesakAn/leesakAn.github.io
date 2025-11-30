@@ -1,52 +1,23 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Gender Discrimination Experience and Political Participation." 
+date: 
+tags: ["gender discrimination","political participation","perceived inequality","South Korea"]
+author: ["Sunkyoung Park", "Leesak An", "Siwon Lee"]
+description: "This paper studies how gender discrimination experiences influence political participation." 
+summary: "This paper studies how gender discrimination experiences influence political participation." 
 cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    image: "gender discrimination.jpg"
+    alt: ""
     relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+
 
 ---
-
----
-
-##### Download
-
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+This study investigates how experiences of gender discrimination influence political participation and how these effects vary by gender, age, and perceptions of gender inequality. Using a 2024 nationwide online survey, we examine multiple forms of participation, including petition signing, protest involvement, and online commenting. Our findings show that individuals who have encountered gender discrimination report higher levels of political engagement. Moderation analyses indicate that the effect is stronger among men and younger respondents. Subgroup models further reveal that men in their twenties and thirties display the largest increase in participation following discriminatory experiences compared to women of the same age and older men and women. This pattern is linked to perceptions of gendered disadvantage across the life course, which play a central role in shaping reactions to discrimination.
+Additional analyses demonstrate that perceived gender inequality conditions the relationship between discrimination and specific participation modes. Among men, stronger perceptions of disadvantage heighten the effect on online commenting, while among women, a similar pattern appears for petition and appeal signing. These findings reflect broader trends in South Korea, where online spaces have become important channels for young men’s claims of reverse discrimination, while petition-based activism has grown among women in the post–MeToo context. Overall, the study highlights heterogeneous pathways through which discrimination experiences translate into political participation.
 
 ---
-
-##### Citation
-
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
-
-```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
-```
-
----
-
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
