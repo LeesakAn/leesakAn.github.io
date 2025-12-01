@@ -1,8 +1,8 @@
 ---
 title: "Gender Politics Research Group"
 date: ""
-description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+description: "" 
+summary: "" 
 cover:
     image: ""
     alt: ""
@@ -17,19 +17,23 @@ disableAnchoredHeadings: false
 
 ## Description
 
-This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
+As the Head Research Assistant for the Gender Politics Research Group, I support both the academic and administrative operations of the team. My work spans project coordination, data management, survey design, and collaboration with faculty and external researchers.
 
-+ Why are there irregular verbs? 
-+ How are Portuguese irregular verbs different from Spanish irregular verbs? 
-+ What is the role of Latin and Greek in these irregularities? 
-+ What about irregular verbs in other Romance languages?
-    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. 
-    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    + Excepteur sint occaecat cupidatat non proident.
-    
-Sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Key Responsibilities and Projects
+
++ Lead liaison work with professors and external collaborators, including organizing invited talks, requesting research materials, and managing communication channels.
++ Supervise and train student research assistants, especially those involved in human-coding tasks for the gender-sensitivity dataset. I designed and led coding-guideline workshops to maintain consistency and reliability. [Seminar Syllabus](Syllabus.pdf)
++ Oversee budgeting and administrative tasks for the research group.
+
+#### Gender-Sensitivity Text Data Project
++ Crawled and processed National Assembly meeting transcripts to build a large-scale dataset of legislators’ statements.
++ Contributed to the development of a machine-learning dictionary that identifies varying levels of gender sensitivity in political speech.
++ Worked with linguistics researchers to extend this framework to other corpora, including public hearing transcripts, party platforms, and various political texts.
+
+#### Survey Research and Independent Work
++ Co-designed and administered surveys on gender perceptions, gender discrimination, and political attitudes.
++ Conducted an independent research project analyzing how experiences of gender discrimination shape political participation, using data produced through the group’s earlier work. [Go to Working paper page](https://leesakan.github.io/papers/paper3/)
++ Successfully secured funding for my master’s thesis experiment through a proposal presentation to the research institute.
 
 ## About Gender Politics Research Group
 
@@ -41,22 +45,15 @@ Grounded in this concern, the Gender Politics Research Group aims to analyze how
 
 ##### Faculty collaborators
 
-+ [Sunkyoung Park](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
-+ [Woochang Kang](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
-+ [Yesola Kweon](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
-+ [BS Song](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
-+ [Hy Cha](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
-+ [Tae Kim](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
++ [Sunkyoung Park](https://sites.google.com/site/sunkyoungpark12/) – Associate Professor in the Division of Global Korean Studies at Korea University
++ [Woochang Kang](https://woochangkang.github.io/) – Associate professor in the Department of Politics and International Relations at Korea University
++ [Yesola Kweon](https://yesolakweon.github.io/) – Associate Professor of Political Science at Sungkyunkwan University(SKKU)
++ [BS Song](https://bksong99.github.io/) – Associate professor in the Department of Political Science at Sogang University
++ [Taegyoon Kim](https://taegyoon-kim.github.io/) – Assistant professor at School of Digital Humanities and Computational Social Sciences and a joint professor at Graduate School of Data Science, Korea Advanced Institute of Science and Technology (KAIST)
++ [Hyun-Jin Cha](https://www.ut.ac.kr/prog/professorInfo/91311/slas/sub01_02/view.do?cntno=571&pageIndex=2) – Assistant Professor of School of Liberal Arts and Science at Korea National University of Transportation
 
-##### Main Projects
 
-+ [Lecture note 1](lecture1.pdf)
 
-##### Readings
-
-+ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read.
-+ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
-+ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
 
 
 
