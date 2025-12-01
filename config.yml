@@ -72,6 +72,8 @@ params:
           url: leesakan_cv(1129).pdf
         - name: Email
           url: mailto:isaac30421@gmail.com
+        - name: Location
+          url: location/
 
     assets:
         disableScrollBarStyle: true
