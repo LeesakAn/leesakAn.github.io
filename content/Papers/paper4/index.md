@@ -10,7 +10,6 @@ cover:
     alt: ""
     relative: true
 
-
 ---
 
 ---
