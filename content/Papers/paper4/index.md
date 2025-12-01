@@ -1,5 +1,5 @@
 ---
-title: "How a Parade changes the world: Effects of LGBTQ+ Pride Parades on a Individual’s Attitude in South Kore" 
+title: "How a Parade changes the world: Effects of LGBTQ+ Pride Parades on a Individual’s Attitude in South Korea" 
 date: 
 tags: ["Pride parade", "LGBTQ attitudes", "contact effect", "local level", "political behavior", "South Korea", "spatial analysis"]
 author: ["Leesak An"]

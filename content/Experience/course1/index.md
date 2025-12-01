@@ -1,6 +1,6 @@
 ---
 title: "Gender Politics Research Group"
-date: 2023-09  
+date: ""
 aliases: 
     - /courses/course2/slides4.pdf
     - /courses/course2/slides1.pdf
