@@ -32,3 +32,8 @@ Based on these interviews and community visits, students developed draft ordinan
 > We are confident that this book, which identifies everyday problems faced by ordinary citizens and explores practical solutions, will offer a fresh way to engage with political science theories and knowledge. We also believe it will serve as an institutional foundation for developing improved ordinances that can lead to new policy initiatives.
 
 ---
+#### Citation
+
+Kang, Woo Chang, Leesak An and Eunjin Lee. 2023. *The Local Ordinance We Created: Politics Beyond the Classroom*. Seoul: Bunny on the moon. https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=331004512&srsltid=AfmBOoomWz1hQ6veM9aql4JgScTkoopMkFNcgK48AZ_Jd8HL09iHLsfQ 
+
+
