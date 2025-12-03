@@ -82,7 +82,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Leesak An"
-      icon: favicon.ico
+      icon: plant.png
       iconHeight: 18
 
 markup:
