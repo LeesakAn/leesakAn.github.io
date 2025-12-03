@@ -19,11 +19,4 @@ Leesak An
  
 Political Science and Economics Building, 145, Anam-ro, Seongbuk-gu, Seoul, Korea
 
----
-
-#### Office location
-
-<iframe src="https://maps.app.goo.gl/KfH4sUA8HB2mp3998" 
-width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
 

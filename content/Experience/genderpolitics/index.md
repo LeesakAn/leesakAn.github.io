@@ -1,8 +1,8 @@
 ---
 title: "Gender Politics Research Group"
 date: ""
-description: "Head Research Assistant" 
-summary: "Head Research Assistant" 
+description: "Head Research Assistant (2023 Sep - 025 Aug)" 
+summary: "Head Research Assistant(2023 Sep - 025 Aug)" 
 cover:
     image: ""
     alt: ""
@@ -22,7 +22,7 @@ As the Head Research Assistant for the Gender Politics Research Group, I support
 #### Key Responsibilities and Projects
 
 + Lead liaison work with professors and external collaborators, including organizing invited talks, requesting research materials, and managing communication channels.
-+ Supervise and train student research assistants, especially those involved in human-coding tasks for the gender-sensitivity dataset. I designed and led coding-guideline workshops to maintain consistency and reliability. [Seminar Syllabus](Syllabus.pdf)
++ Supervise and train student research assistants, especially those involved in human-coding tasks for the gender-sensitivity dataset. I designed and led coding-guideline workshops to maintain consistency and reliability. [(Seminar Syllabus)](Syllabus.pdf)
 + Oversee budgeting and administrative tasks for the research group.
 
 #### Gender-Sensitivity Text Data Project
