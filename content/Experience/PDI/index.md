@@ -35,7 +35,7 @@ As a Research Staffer at the Peace & Democracy Institute (PDI), I support the in
 + Prepare documents, reports, and organizational materials needed for institute activities.
 + Facilitate efficient operations so that the institute’s academic and civic-education programs can function effectively.
 
-## About Gender Politics Research Group
+## About PDI
 
 The Peace & Democracy Institute (PDI) was established to strengthen research capacity in the humanities and social sciences by advancing social-scientific theories and supporting academic activities aimed at creating a political order grounded in peace, prosperity, and justice on the Korean Peninsula and in its surrounding regions.
 
