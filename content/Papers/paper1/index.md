@@ -16,7 +16,7 @@ cover:
 
 ##### Download
 
-+ [Paper](Are_you_a_feminist.pdf)
++ [Paper](feminist.pdf)
 
 ---
 
