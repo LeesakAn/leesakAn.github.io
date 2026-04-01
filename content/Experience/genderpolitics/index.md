@@ -2,7 +2,7 @@
 title: "Gender Politics Research Group"
 date: ""
 description: "Head Research Assistant (2023 Sep - 025 Aug)" 
-summary: "Head Research Assistant(2023 Sep - 025 Aug)" 
+summary: "Head Research Assistant(2023 Sep - 2025 Aug)" 
 cover:
     image: ""
     alt: ""
@@ -32,7 +32,7 @@ As the Head Research Assistant for the Gender Politics Research Group, I support
 
 #### Survey Research and Independent Work
 + Co-designed and administered surveys on gender perceptions, gender discrimination, and political attitudes.
-+ Conducted an independent research project analyzing how experiences of gender discrimination shape political participation, using data produced through the group’s earlier work. [(Go to Working paper page)](https://leesakan.github.io/papers/paper3/)
++ Conducted an independent research project analyzing how experiences of gender discrimination shape political participation, using data produced through the group’s earlier work. [(Go to Forthcoming paper page)](https://leesakan.github.io/papers/paper3/)
 + Successfully secured funding for my master’s thesis experiment through a proposal presentation to the research institute. [(Go to Thesis page)](https://leesakan.github.io/papers/paper1/)
 
 ## About Gender Politics Research Group

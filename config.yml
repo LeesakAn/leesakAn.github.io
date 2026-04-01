@@ -18,9 +18,12 @@ menu:
         - name: Books
           url: books/
           weight: 3
+        - name: Projects
+          url: projects/
+          weight: 4
         - name: Experience
           url: experience/
-          weight: 4
+          weight: 5
 
 params:
     description: "This website hosts Leesak An's research papers, books, experience, curriculum vitae, and contact information."
@@ -38,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research","experience"]
+    MainSections: ["papers","experience"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -64,6 +67,8 @@ params:
               url: papers/
             - name: Books
               url: books/
+            - name: Projects
+              url: projects/
             - name: Experience
               url: experience/
 

@@ -1,8 +1,8 @@
 ---
-title: "Gender Discrimination Experience and Political Participation." 
+title: "(Forthcoming) Gender Discrimination Experience and Political Participation." 
 date: 
 tags: ["gender discrimination","political participation","perceived inequality","South Korea"]
-author: ["Sunkyoung Park", "Leesak An", "Siwon Lee"]
+author: ["Leesak An", "Siwon Lee", and "Sunkyoung Park"]
 description: "This paper studies how gender discrimination experiences influence political participation." 
 summary: "This paper studies how gender discrimination experiences influence political participation." 
 cover:
@@ -17,7 +17,16 @@ cover:
 
 ##### Abstract
 
-This study investigates how experiences of gender discrimination influence political participation and how these effects vary by gender, age, and perceptions of gender inequality. Using a 2024 nationwide online survey, we examine multiple forms of participation, including petition signing, protest involvement, and online commenting. Our findings show that individuals who have encountered gender discrimination report higher levels of political engagement. Moderation analyses indicate that the effect is stronger among men and younger respondents. Subgroup models further reveal that men in their twenties and thirties display the largest increase in participation following discriminatory experiences compared to women of the same age and older men and women. This pattern is linked to perceptions of gendered disadvantage across the life course, which play a central role in shaping reactions to discrimination.
-Additional analyses demonstrate that perceived gender inequality conditions the relationship between discrimination and specific participation modes. Among men, stronger perceptions of disadvantage heighten the effect on online commenting, while among women, a similar pattern appears for petition and appeal signing. These findings reflect broader trends in South Korea, where online spaces have become important channels for young men’s claims of reverse discrimination, while petition-based activism has grown among women in the post–MeToo context. Overall, the study highlights heterogeneous pathways through which discrimination experiences translate into political participation.
+Does the experience of gender discrimination mobilize unconventional political participation? Drawing on grievance theory and social identity theory, this study argues that individuals who have experienced gender discrimination are more likely to engage in unconventional forms of political action. Using data from a 2024 online survey, the analysis shows that experiences of gender discrimination are positively associated with all examined types of unconventional participation, including petition signing, protest, participation in political meetings, and online activism. Although no significant moderating effect of gender is detected, subgroup analyses by gender and generation reveal that the participatory effect of discrimination experiences is strongest not among women but among young men. Additional analyses of perceived life-course disadvantages indicate that young men report the highest levels of belief that men are disadvantaged across all stages of the life cycle. This pattern provides an indirect explanation for the particularly strong link between discrimination experiences and political participation among young men.
 
 ---
+
+#### Main Results
+
+![](paper3main.png)
+
+---
+
+#### Citation
+
+An, Leesak Siwon Lee, and Sunkyoung Park. 2026. “Gender Discrimination Experience and Political Participation.” Journal of Contemporary Politics 19(1).

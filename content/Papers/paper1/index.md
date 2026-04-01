@@ -1,5 +1,5 @@
 ---
-title: "Are You a Feminist? the labeling effect of feminism in South Korea" 
+title: "(Thesis) Are You a Feminist? the labeling effect of feminism in South Korea" 
 date: ""
 tags: ["feminism labeling", "framing effects", "survey experiment", "political attitudes", "behavioral intentions", "gender politics", "South Korea"]
 author: ["Leesak An"]
