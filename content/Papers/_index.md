@@ -1,4 +1,4 @@
 ---
-title: "Research"
-description: "Preprints and articles by Leesak An."
+title: "Papers"
+description: "Published articles by Leesak An."
 ---
