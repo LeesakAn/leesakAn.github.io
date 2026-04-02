@@ -1,7 +1,7 @@
 ---
-title: "(Forthcoming) Gender Discrimination Experience and Political Participation." 
+title: "(Forthcoming) The Politicization of Gender Discrimination: The Effects of Gender Discrimination Experiences on Unconventional Political Participation" 
 date: 
-tags: ["gender discrimination","political participation","perceived inequality","South Korea"]
+tags: ["gender discrimination","political participation","young men", "male victimhood"]
 author: ["Leesak An", "Siwon Lee", and "Sunkyoung Park"]
 description: "This paper studies how gender discrimination experiences influence political participation." 
 summary: "This paper studies how gender discrimination experiences influence political participation." 
